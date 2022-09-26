@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&family=Righteous&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./img/apex-world.png);
+}
+header{
+    display: flex;
+    flex-direction: column;
+}
+.menu-bar {
+    display: flex;
+    height: 4vh;
+    background-color: #161616;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1.5vw;
+    padding-right: 1.5vw;
+}
+
+.navegador-apex {
+    background-image: url(./img/group2.png);
+    display: flex;
+    height: 8.8vh;
+    width: 87vw;
+    color: yellow;
+    align-self: center; 
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5vw; 
+    padding-right: 5vw;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+}
+li{
+    display: flex;
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Oxanium';
+    font-style: normal;
+
+}
+.logo{
+    width: 70px;
+    height: 45px;
+}
+.div-button{
+    background-color: #C83C35;
+    display: flex;
+    padding-right: 2vw;
+    height: 3rem;
+    width: 8vw;
+}
