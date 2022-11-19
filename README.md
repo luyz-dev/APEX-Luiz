@@ -23,3 +23,9 @@ de Desenvolvimento de Sistemas, do
 ---
 ## Autor
 - [Luiz Gustavo](https://github.com/luizgustavo2006)
+
+---
+## Contatos
+- [Instagram](https://www.instagram.com/luyz.dev/)
+- [Linkedin](https://www.linkedin.com/in/luyz-dev)
+- WhatsApp: (11) 9-6759-3159
