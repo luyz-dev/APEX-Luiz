@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxanium&family=Righteous&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -30,7 +29,7 @@ header {
     background-image: url(./img/group2.png);
     display: flex;
     height: 8.8vh;
-    width: 89vw;
+    width: 87vw;
     color: white;
     align-self: center;
     justify-content: space-between;
@@ -52,7 +51,6 @@ li {
     font-family: 'Oxanium';
     font-style: normal;
     font-weight: 600;
-
 }
 
 .logo {
@@ -122,7 +120,8 @@ main {
     top: 65%;
     left: 4.5%;
 }
-.button_watch{
+
+.button_watch {
     width: 281px;
     height: 71px;
     position: absolute;
